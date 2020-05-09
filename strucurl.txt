@@ -1,0 +1,1 @@
+http://stat.data.abs.gov.au/restsdmx/sdmx.ashx/GetDataStructure/ABS_REGIONAL_LGA2018?pid=d3e726e2-89af-4218-ae07-c51db40d72dc
